@@ -1,2 +1,2 @@
-# Hello-world
-The First Repository of Me
+# MySnake
+My schoolwork of C
